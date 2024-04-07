@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Brain",
+      "price": 200.0,
+      "description": "Upgrade your cognitive abilities with the Brain Deluxe—an innovative solution for enhanced learning, creative thinking, and peak mental performance. Experience unparalleled mental agility and unlock limitless potential in every aspect of your life. Elevate your mind today with the Brain Deluxe and revolutionize the way you think.",
+      "category": "Nervous",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Left_side_of_the_brain.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 2,
+      "title": "Heart",
+      "price": 349.99,
+      "description": "Unlock boundless vitality with Heart Supreme—an innovative solution for optimal cardiovascular health and increased energy. Experience enhanced stamina and resilience, empowering you to live life to the fullest. Elevate your heart health with Heart Supreme and embrace a vibrant, energetic lifestyle.",
+      "category": "Cardiovascular",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Heart_anterior_exterior_view.jpg",
+      "rating": { "rate": 4.1, "count": 259 }
+    },
+    {
+      "id": 3,
+      "title": "Lungs",
+      "price": 249.99,
+      "description": "Experience the breath of life like never before with our premium lungs, ensuring optimal respiratory function and vitality for a healthier, more active lifestyle.",
+      "category": "Respiratory",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Birikak.png",
+      "rating": { "rate": 4.7, "count": 500 }
+    },
+    {
+      "id": 4,
+      "title": "Liver",
+      "price": 99.99,
+      "description": "Elevate your health with our high-quality liver, meticulously crafted to support detoxification, metabolic balance, and overall well-being for a vibrant and energized life.",
+      "category": "Digestive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Digestive_system_-_Liver_2_--_Smart-Servier.png",
+      "rating": { "rate": 2.1, "count": 430 }
+    },
+    {
+      "id": 5,
+      "title": "Kidneys",
+      "price": 499.99,
+      "description": "Unlock the key to optimal kidney health with our exceptional kidneys, meticulously engineered to regulate fluid balance, filter waste, and maintain electrolyte levels for enhanced vitality and well-being.",
+      "category": "Urinary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/CDC_Kidney_and_Diabetes_graphic.jpg",
+      "rating": { "rate": 4.6, "count": 400 }
+    },
+    {
+      "id": 6,
+      "title": "Pancreas",
+      "price": 174.99,
+      "description": "Experience superior metabolic control and digestive health with our premium pancreas, expertly designed to regulate blood sugar levels and support optimal nutrient absorption for sustained vitality and well-being.",
+      "category": "Digestive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Glands_-_Pancreas_3_--_Smart-Servier.png",
+      "rating": { "rate": 3.9, "count": 70 }
+    },
+    {
+      "id": 7,
+      "title": "Stomach",
+      "price": 99.99,
+      "description": "Elevate your digestive wellness with our superior stomach, engineered to optimize digestion, nutrient absorption, and overall gastrointestinal health for a balanced and thriving lifestyle.",
+      "category": "Digestive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sobo_1906_370.png",
+      "rating": { "rate": 3, "count": 400 }
+    },
+    {
+      "id": 8,
+      "title": "Diaphragm",
+      "price": 74.99,
+      "description": "Enhance your respiratory efficiency and core stability with our advanced diaphragm, meticulously crafted to support proper breathing and posture, empowering you to perform at your peak and live life to the fullest.",
+      "category": "Respiratory",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/3D_Medical_Animation_Diaphragm_Structure.jpg",
+      "rating": { "rate": 1.9, "count": 100 }
+    },
+    {
+      "id": 9,
+      "title": "Appendix",
+      "price": 9.99,
+      "description": "Discover the hidden gem of your immune system with our specialized appendix, strategically positioned to aid in the defense against harmful bacteria and promote gut health, ensuring your body's natural defense mechanisms are operating at their peak.",
+      "category": "Digestive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gray536.png",
+      "rating": { "rate": 3.3, "count": 203 }
+    },
+    {
+      "id": 10,
+      "title": "Large Intestine",
+      "price": 109.99,
+      "description": "Unlock optimal digestive function and waste removal with our superior large intestine, meticulously designed to absorb water and nutrients while efficiently eliminating toxins, ensuring your body operates at its peak for sustained vitality and well-being.",
+      "category": "Digestive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Blausen_0603_LargeIntestine_Anatomy.png",
+      "rating": { "rate": 2.9, "count": 470 }
+    }
+  ]
+  
